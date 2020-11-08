@@ -1,0 +1,12 @@
+<Configuration>
+	<Retension>
+		<daily>7</daily>
+		<monthly>120</monthly>
+	</Retension>
+	<Wholesaler>
+		<wsl>AFFINITY_W</wsl>
+		<wsl>ALBION_W</wsl>
+	</Wholesaler>
+	<Retailer>
+	</Retailer>
+</Configuration>
